@@ -34,7 +34,7 @@ dump.~~~みたいなファイルがtribe毎の結果。
 mclblastline --mcl-I=1.4 elife_test.txt
 ```
 
-## 4.-方法2 mclblastlineコマンドの中身を1つずつ実行
+### 4.-方法2 mclblastlineコマンドの中身を1つずつ実行
 出力ファイル名やオプション等を細かく決めたい時(普通は方法1で良いかと思います。)
 ```
 mcxdeblast elife_test.txt
