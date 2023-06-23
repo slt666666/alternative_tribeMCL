@@ -12,7 +12,7 @@ make install
 ```
 
 ## 2. Install local blast
-### blastは公式から普通にインストールでOK
+blastは公式から普通にインストールでOK
 
 ## 3. blast
 blastの閾値は``-evalue``で設定(ここではAdachi et al., 2019に合わせて1e-8)
